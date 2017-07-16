@@ -2,10 +2,10 @@
 
 A [Minesweeper game](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) implemented in python 3.5.2 using Tkinter GUI library. 
 
-Three options of grids included:
-- 9x9 grid containing 10 mines.
-- 15x15 grid containing 35 mines.
-- 20x20 grid containing 85 mines.
+You can select among three options of grids:
+- 9x9 containing 10 mines.
+- 15x15 containing 35 mines.
+- 20x20 containing 85 mines.
 
 
 <br />
