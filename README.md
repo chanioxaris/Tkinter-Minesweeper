@@ -9,7 +9,7 @@ You can select among three options of grids:
 
 
 <br />
-Below you can see screenshots of the game, one from the main menu and a second from a 9x9 grid game.
+Below you can see screenshots of the game, one from the main menu and a second one from a 9x9 grid game.
 <br />
 <br />
 
