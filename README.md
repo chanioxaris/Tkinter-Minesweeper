@@ -1,6 +1,6 @@
 ## Overview
 
-A [Minesweeper game](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) implemented in python 3.6 using Tkinter GUI library. 
+A [Minesweeper game](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) implemented in Python 3.6 using Tkinter GUI library. 
 
 You can select among three options of grids:
 - 9x9 containing 10 mines.
