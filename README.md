@@ -13,7 +13,7 @@ Below you can see screenshots of the game, one from the main menu and a second o
 <br />
 <br />
 
-![UI](https://github.com/chanioxaris/Tkinter-Minesweeper/blob/master/img/ui.png)
+![UI](https://github.com/chanioxaris/minesweeper/blob/master/img/ui.png)
 
 ## Usage
 
